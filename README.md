@@ -1,2 +1,3 @@
-# padel-manager
-Application de gestion des sessions de padel entre amis
+# Padel Manager
+
+Application de gestion de sessions de padel.
